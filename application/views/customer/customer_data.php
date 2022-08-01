@@ -33,6 +33,7 @@
 			<th>Actions</th>
 		</tr>
 		</thead>
+		
 		<tbody>
 			<?php $no = 1;
 			foreach ($row->result() as $key => $data) { ?>
